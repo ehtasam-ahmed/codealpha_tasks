@@ -1,0 +1,16 @@
+[StartTime]
+I beam-Static 2.MFC=12s
+[SolverState]
+I beam-Static 2.MFC=2
+[MainFrame]
+I beam-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+I beam-Static 2.MFC=No
+[SolverType]
+I beam-Static 2.MFC=Linear Analysis
+[StudyType]
+I beam-Static 2.MFC=0
+[StudyName]
+I beam-Static 2.MFC=Static 2
+[Solver]
+I beam-Static 2.MFC=Iterative
