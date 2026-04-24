@@ -1,16 +1,16 @@
 # Structural Simulation (FEA) of an I-Beam | CodeAlpha Internship
 
 ## Project Overview
-[cite_start]This project was completed as part of the **Mechanical Design & Simulation** internship at **CodeAlpha**[cite: 1, 2]. [cite_start]The primary objective was to perform a **Finite Element Analysis (FEA)** on a structural component to evaluate its performance under specific loading conditions[cite: 32, 33].
+This project was completed as part of the **Mechanical Design & Simulation** internship at **CodeAlpha**. [cite_start]The primary objective was to perform a **Finite Element Analysis (FEA)** on a structural component to evaluate its performance under specific loading conditions.
 
 ## Task Details
-* [cite_start]**Domain:** Mechanical Design & Simulation [cite: 25]
-* [cite_start]**Software Used:** SolidWorks [cite: 29]
-* [cite_start]**Task:** Structural Simulation (FEA) [cite: 32]
-* [cite_start]**Component:** Structural I-Beam [cite: 33]
+* **Domain:** Mechanical Design & Simulation 
+* **Software Used:** SolidWorks 
+* **Task:** Structural Simulation (FEA) 
+* **Component:** Structural I-Beam 
 
 ## Simulation Methodology
-[cite_start]Following the internship instructions, the analysis focused on the following key areas[cite: 34, 35]:
+Following the internship instructions, the analysis focused on the following key areas:
 
 1.  **3D Modeling:** Creation of the I-beam geometry with proper dimensions.
 2.  **Material Selection:** Assigned structural steel properties to the component.
@@ -30,11 +30,11 @@ The simulation confirmed that the I-beam remains within the elastic limit of the
 
 ## Project Deliverables
 * **CAD File:** Part file including the simulation study.
-* [cite_start]**Simulation Report:** Screenshots and detailed observations of stress, strain, and displacement[cite: 35].
+* **Simulation Report:** Screenshots and detailed observations of stress, strain, and displacement.
 * **Visualizations:** Rendered images and FEA contour plots.
 
 ## About CodeAlpha
-[cite_start]CodeAlpha is dedicated to developing industry-ready engineers through practical training in mechanical design principles and simulation techniques[cite: 5, 6].
+CodeAlpha is dedicated to developing industry-ready engineers through practical training in mechanical design principles and simulation techniques.
 
 ---
 **Author:** Ehtasam Ahmed  
