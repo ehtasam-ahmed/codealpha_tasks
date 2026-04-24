@@ -39,4 +39,4 @@ CodeAlpha is dedicated to developing industry-ready engineers through practical 
 ---
 **Author:** Ehtasam Ahmed  
 **Internship:** Mechanical Design & Simulation  
-[cite_start]**Organization:** [CodeAlpha](https://www.codealpha.tech) [cite: 56]
+**Organization:** [CodeAlpha](https://www.codealpha.tech) 
